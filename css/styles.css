@@ -24,18 +24,3 @@ body, h1, h2, h3, h4, h5, h6, p, a, li {
 .custom-font {
   font-family: 'Bree Serif', serif;
 }
-
-.footer-custom {
-  background-color: var(--cor-primary);
-  color: var(--cor-primary);
-  padding: 20px 0;
-}
-
-.footer-custom a {
-  color: var(--cor-primary);
-  text-decoration: none;
-}
-
-.footer-custom a:hover {
-  color: var(--cor-primary);
-}
