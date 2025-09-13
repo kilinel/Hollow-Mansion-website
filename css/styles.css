@@ -1,0 +1,41 @@
+:root {
+  --cor-primary: #009379;   /* Verde principal */
+  --cor-black: #000000;     /* Preto */
+  --cor-accent: #780C2C;    /* Vermelho vinho */
+  --cor-darkgreen: #042C09; /* Verde escuro */
+ 
+}
+
+
+body{
+    font-family: "Bree Serif", serif;
+}
+
+
+body, h1, h2, h3, h4, h5, h6, p, a, li {
+  font-family: 'Bree Serif', serif !important;
+}
+
+.bg-custom-black {
+  background-color: var(--cor-black) !important;
+}
+
+
+.custom-font {
+  font-family: 'Bree Serif', serif;
+}
+
+.footer-custom {
+  background-color: var(--cor-primary);
+  color: var(--cor-primary);
+  padding: 20px 0;
+}
+
+.footer-custom a {
+  color: var(--cor-primary);
+  text-decoration: none;
+}
+
+.footer-custom a:hover {
+  color: var(--cor-primary);
+}
